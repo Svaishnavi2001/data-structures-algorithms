@@ -1,6 +1,6 @@
 package com.number_and_loops;
 
-// WAP to print the divisible's of a given Number.
+// WAP to print the divisibles of a given Number.
 
 public class Lab6 {
 
