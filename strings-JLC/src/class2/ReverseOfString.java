@@ -1,4 +1,4 @@
-package com.class2;
+package class2;
 // leetcode-125
 public class ReverseOfString {
     public static void main(String[] args) {

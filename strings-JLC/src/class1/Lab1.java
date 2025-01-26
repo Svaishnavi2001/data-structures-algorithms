@@ -1,4 +1,4 @@
-package com.class1;
+package class1;
 
 public class Lab1 {
     public static void main(String[] args) {

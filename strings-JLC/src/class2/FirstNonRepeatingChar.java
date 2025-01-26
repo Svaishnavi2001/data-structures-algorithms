@@ -1,4 +1,4 @@
-package com.class2;
+package class2;
 
 public class FirstNonRepeatingChar {
     public static void main(String[] args) {

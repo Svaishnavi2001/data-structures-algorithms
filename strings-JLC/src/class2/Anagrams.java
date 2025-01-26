@@ -1,4 +1,4 @@
-package com.class2;
+package class2;
 
 // Using logic
 

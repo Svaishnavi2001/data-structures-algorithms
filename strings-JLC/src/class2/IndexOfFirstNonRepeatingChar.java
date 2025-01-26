@@ -1,4 +1,4 @@
-package com.class2;
+package class2;
 // index of 1st Non-repeating characters of a given string
 
 public class IndexOfFirstNonRepeatingChar {

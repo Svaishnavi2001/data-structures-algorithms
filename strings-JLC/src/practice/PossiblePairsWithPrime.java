@@ -1,4 +1,4 @@
-package com.practice;
+package practice;
 
 import org.w3c.dom.css.CSSStyleDeclaration;
 
