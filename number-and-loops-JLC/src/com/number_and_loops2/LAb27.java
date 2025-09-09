@@ -2,7 +2,7 @@ package com.number_and_loops2;
 
 // WAP to display the Armstrong numbers from 1 to n. 
 
-public class LAb27 {
+public class Lab27 {
 
 	private static int cube(int num) {
 
