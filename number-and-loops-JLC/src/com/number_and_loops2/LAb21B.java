@@ -4,7 +4,7 @@ import java.math.BigInteger;
 
 // WAP to find the Factorial of given Number
 
-public class LAb21B {
+public class Lab21B {
 
 	public static void main(String[] args) {
 
